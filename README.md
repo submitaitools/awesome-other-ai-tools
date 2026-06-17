@@ -75,6 +75,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Hugging Face](https://huggingface.co/)
 - [DeepMind](https://deepmind.com/)
 - [AI Dungeon](https://play.aidungeon.io/)
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for retrieving personal context from files, webpages, recordings, emails, messages, images, and notes.
 
 ---
 
