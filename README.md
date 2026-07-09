@@ -75,6 +75,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Hugging Face](https://huggingface.co/)
 - [DeepMind](https://deepmind.com/)
 - [AI Dungeon](https://play.aidungeon.io/)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
