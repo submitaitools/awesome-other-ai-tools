@@ -10,6 +10,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Description:** Tools and technologies that help filter or detect NSFW content using AI algorithms.
 
 **Top Tools:**
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Hawk AI](https://www.hawk.ai/)
 - [Clarifai](https://www.clarifai.com/)
 - [Microsoft Content Moderator](https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/)
