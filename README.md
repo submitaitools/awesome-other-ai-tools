@@ -75,6 +75,6 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Hugging Face](https://huggingface.co/)
 - [DeepMind](https://deepmind.com/)
 - [AI Dungeon](https://play.aidungeon.io/)
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available QA agent for natural-language web and mobile tests, with persistent test memory and an MCP server.
 
 ---
-
