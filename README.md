@@ -75,6 +75,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Hugging Face](https://huggingface.co/)
 - [DeepMind](https://deepmind.com/)
 - [AI Dungeon](https://play.aidungeon.io/)
+- [Orkas](https://orkas.ai/?source=gh_submitother) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ---
 
