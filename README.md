@@ -47,6 +47,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 **Top Tools:**
 - [SubmitAITools.org](https://submitaitools.org/)
+- [AI Tools Radar](https://aitoolsradar.com/)
 - [AI Tools Directory](https://aitools.directory/)
 - [ToolBox AI](https://www.toolbox.ai/)
 - [AI Startup Finder](https://aistartupfinder.com/)
@@ -77,4 +78,3 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [AI Dungeon](https://play.aidungeon.io/)
 
 ---
-
