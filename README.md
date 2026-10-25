@@ -70,6 +70,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Description:** Miscellaneous AI tools and technologies that don’t fall into the categories above but are equally innovative.
 
 **Top Tools:**
+- [Ideoy](https://ideoy.ai/) — Remake viral videos 1:1 with AI
 - [RunwayML](https://runwayml.com/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Hugging Face](https://huggingface.co/)
