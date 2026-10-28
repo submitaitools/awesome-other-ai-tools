@@ -51,6 +51,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [ToolBox AI](https://www.toolbox.ai/)
 - [AI Startup Finder](https://aistartupfinder.com/)
 - [FutureTools](https://www.futuretools.io/)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ---
 
