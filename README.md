@@ -75,6 +75,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Hugging Face](https://huggingface.co/)
 - [DeepMind](https://deepmind.com/)
 - [AI Dungeon](https://play.aidungeon.io/)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for touring musicians and AI assistants to search verified live-music venues, plan tour routes, and inspect booking contacts.
 
 ---
 
